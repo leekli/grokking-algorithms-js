@@ -1,0 +1,17 @@
+{
+  "name": "grokking-algorithms",
+  "version": "1.0.0",
+  "description": "grokking algorithms book implemented in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "algorithms"
+  ],
+  "author": "lee kirkham",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
