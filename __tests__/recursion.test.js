@@ -1,8 +1,6 @@
 const {
   factorial,
-
   fibonacci,
-
   deepIncludes,
 } = require("../algorithms/recursion");
 
