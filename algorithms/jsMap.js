@@ -1,4 +1,4 @@
-function hashTable(keyName, valueName) {
+function jsMap(keyName, valueName) {
   // Using JavaScript's Map Object functionality
   const newMap = new Map();
 
@@ -11,4 +11,4 @@ function hashTable(keyName, valueName) {
   return newMap;
 }
 
-module.exports = hashTable;
+module.exports = jsMap;
