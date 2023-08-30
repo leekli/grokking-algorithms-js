@@ -1,4 +1,4 @@
-const jsMap = require("../algorithms/jsMap");
+const jsMap = require("../data_structures/jsMap");
 
 describe("Hash Table / Map Tests", () => {
   test("should return the value of a key which exists in the Map", () => {

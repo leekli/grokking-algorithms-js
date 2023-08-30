@@ -1,4 +1,4 @@
-const HashMap = require("../algorithms/hashMap");
+const HashMap = require("../data_structures/hashMap");
 
 describe("Hash Map tests (class based)", () => {
   test("should be an instance of the HashMap Class", () => {
